@@ -59,3 +59,11 @@ between removing the duplication, and succeeding in making the code open
 the whole problem in advance. The plan is to nibble away, one code smell at a time, in faith that
 the path to openness will be revealed.
 
+When you make small changes to your code, you are able to identify what went wrong with more precise error codes, a drastic change can make it difficult to pinpoint where something went wrong. Its important to make small changes to find a small problem.
+
+### Flocking in Practice
+
+- For beginners its best to change one line at a time as stated above
+- Run the tests after every change.
+- If the tests fail, undo and make a better change.
+
