@@ -20,10 +20,13 @@ be understood while simultaneously being abstract enough to allow for change. Me
 1. Select the things that are most alike.
 2. Find the smallest difference between them.
 3. Make the simplest change that will remove that difference.
-Changes to code can be subdivided into four distinct steps:
+
+
+#### Changes to code can be subdivided into four distinct steps:
 1. parse the new code
 2. parse and execute it
-
+3. parse, execute and use its result
+4. delete unused code
 
 ### SOLID Design Principles
 
