@@ -1,5 +1,11 @@
 ### Questions to ask yourself
 
+#### How code should be written
+
+_The code you write should meet two often-contradictory goals. It must remain concrete enough to
+be understood while simultaneously being abstract enough to allow for change._
+
+
 1. How difficult was it to write?
  
 2. How hard is it to understand?
