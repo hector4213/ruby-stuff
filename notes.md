@@ -23,3 +23,24 @@ be understood while simultaneously being abstract enough to allow for change. Me
 Changes to code can be subdivided into four distinct steps:
 1. parse the new code
 2. parse and execute it
+
+
+### SOLID Design Principles
+
+- Coined by Micheal Feathers popularized my Robert Martin
+
+__S__ - Single Responsibility
+The methods in a class should be cohesive around a single purpose.
+
+__O__ - Open-Closed
+Objects should be open for extension, but closed for modification.
+
+__L__ - Liskov Substitution
+Subclasses should be substitutable for their superclasses.
+
+__I__ - Interface Segregation
+Objects should not be forced to depend on methods they don’t use.
+
+__D__ - Dependency Inversion
+Depend on abstractions, not on concretions.
+
