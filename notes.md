@@ -44,3 +44,15 @@ Objects should not be forced to depend on methods they don’t use.
 __D__ - Dependency Inversion
 Depend on abstractions, not on concretions.
 
+### Identify Code Smells
+
+-  Make a list of the things you find
+objectionable.
+
+-  There is no direct connection
+between removing the duplication, and succeeding in making the code open
+
+- But you don’t have to know how to solve
+the whole problem in advance. The plan is to nibble away, one code smell at a time, in faith that
+the path to openness will be revealed.
+
