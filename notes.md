@@ -3,7 +3,7 @@
 #### How code should be written
 
 _The code you write should meet two often-contradictory goals. It must remain concrete enough to
-be understood while simultaneously being abstract enough to allow for change._
+be understood while simultaneously being abstract enough to allow for change. Meaning its really about finding the right abstraction._
 
 
 1. How difficult was it to write?
